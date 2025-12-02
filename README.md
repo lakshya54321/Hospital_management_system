@@ -20,6 +20,7 @@ Live room status from database
 🚑 Ambulance Management
 Track ambulance details
 Availability checking
+
 Display ambulance list using DbUtils table model
 🏬 Department Management
 Add / view hospital departments
@@ -30,7 +31,7 @@ JDBC + MySQL Connector/J
 SQL-powered forms and tables
 Clean separation of src/, bin/, lib/, and icon/ folders
 
-
+<img width="1512" height="982" alt="Screenshot 2025-12-03 at 12 57 04 AM" src="https://github.com/user-attachments/assets/de623831-4914-47e7-91d9-6c4eb14cd26a" />
 📁 Project Folder Structure
 Hospital_management_system/
 │── src/
@@ -165,4 +166,5 @@ java -cp "bin:lib/*" Hospital.management.system.Login
 Lakshya Karamchandani
 B.Tech CSE
 Agra, India
+
 
