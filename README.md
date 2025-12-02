@@ -31,50 +31,9 @@ JDBC + MySQL Connector/J
 SQL-powered forms and tables
 Clean separation of src/, bin/, lib/, and icon/ folders
 
-<img width="1512" height="982" alt="Screenshot 2025-12-03 at 12 57 04 AM" src="https://github.com/user-attachments/assets/de623831-4914-47e7-91d9-6c4eb14cd26a" />
 📁 Project Folder Structure
-Hospital_management_system/
-│── src/
+<img width="491" height="533" alt="Screenshot 2025-12-03 at 1 00 13 AM" src="https://github.com/user-attachments/assets/9adaabe1-f97c-4f44-9b99-99fad95d5a62" />
 
-│   └── Hospital/
-
-│       └── management/
-
-│           └── system/
-
-│               ├── Login.java
-
-│               ├── Reception.java
-
-│               ├── NEW_PATIENT.java
-
-│               ├── Room.java
-
-│               ├── SearchRoom.java
-
-│               ├── Department.java
-
-│               ├── Employee_info.java
-
-│               ├── Ambulance.java
-
-│               ├── ALL_Patient_Info.java
-
-│               ├── update_patient_details.java
-
-│               ├── patient_discharge.java
-
-│               ├── conn.java
-
-│               └── icon/   (image assets)
-
-│── lib/ (JAR files like mysql-connector + DbUtils)
-
-│── bin/ (compiled classes)
-
-│── .gitignore
-
-│── README.md
 
 
 🛠️ Technologies Used
@@ -166,5 +125,6 @@ java -cp "bin:lib/*" Hospital.management.system.Login
 Lakshya Karamchandani
 B.Tech CSE
 Agra, India
+
 
 
