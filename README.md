@@ -34,25 +34,45 @@ Clean separation of src/, bin/, lib/, and icon/ folders
 📁 Project Folder Structure
 Hospital_management_system/
 │── src/
+
 │   └── Hospital/
+
 │       └── management/
+
 │           └── system/
+
 │               ├── Login.java
+
 │               ├── Reception.java
+
 │               ├── NEW_PATIENT.java
+
 │               ├── Room.java
+
 │               ├── SearchRoom.java
+
 │               ├── Department.java
+
 │               ├── Employee_info.java
+
 │               ├── Ambulance.java
+
 │               ├── ALL_Patient_Info.java
+
 │               ├── update_patient_details.java
+
 │               ├── patient_discharge.java
+
 │               ├── conn.java
+
 │               └── icon/   (image assets)
+
 │── lib/ (JAR files like mysql-connector + DbUtils)
+
 │── bin/ (compiled classes)
+
 │── .gitignore
+
 │── README.md
 
 
@@ -145,3 +165,4 @@ java -cp "bin:lib/*" Hospital.management.system.Login
 Lakshya Karamchandani
 B.Tech CSE
 Agra, India
+
